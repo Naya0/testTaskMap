@@ -26,7 +26,7 @@ https://mobile.handswork.pro/api/shift...=38.987221
 - dateStartByCity – дата начала смены
 - timeStartByCity – время начала
 - timeEndByCity – время окончания
-- currentWorkers – сколько людей уже набрано (может быть больше требуемого)
+- currentWorkers  – сколько людей уже набрано (может быть больше требуемого)
 - planWorkers – сколько людей требуется
 - workTypes – наименование типа услуги
 - priceWorker – сумма выплаты за смену (в рублях)
